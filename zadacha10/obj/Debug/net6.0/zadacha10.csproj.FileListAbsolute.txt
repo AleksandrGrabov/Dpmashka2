@@ -1,0 +1,15 @@
+C:\Users\Intel\OneDrive\Рабочий стол\Domashka2\Dpmashka2\zadacha10\bin\Debug\net6.0\zadacha10.exe
+C:\Users\Intel\OneDrive\Рабочий стол\Domashka2\Dpmashka2\zadacha10\bin\Debug\net6.0\zadacha10.deps.json
+C:\Users\Intel\OneDrive\Рабочий стол\Domashka2\Dpmashka2\zadacha10\bin\Debug\net6.0\zadacha10.runtimeconfig.json
+C:\Users\Intel\OneDrive\Рабочий стол\Domashka2\Dpmashka2\zadacha10\bin\Debug\net6.0\zadacha10.dll
+C:\Users\Intel\OneDrive\Рабочий стол\Domashka2\Dpmashka2\zadacha10\bin\Debug\net6.0\zadacha10.pdb
+C:\Users\Intel\OneDrive\Рабочий стол\Domashka2\Dpmashka2\zadacha10\obj\Debug\net6.0\zadacha10.csproj.AssemblyReference.cache
+C:\Users\Intel\OneDrive\Рабочий стол\Domashka2\Dpmashka2\zadacha10\obj\Debug\net6.0\zadacha10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Intel\OneDrive\Рабочий стол\Domashka2\Dpmashka2\zadacha10\obj\Debug\net6.0\zadacha10.AssemblyInfoInputs.cache
+C:\Users\Intel\OneDrive\Рабочий стол\Domashka2\Dpmashka2\zadacha10\obj\Debug\net6.0\zadacha10.AssemblyInfo.cs
+C:\Users\Intel\OneDrive\Рабочий стол\Domashka2\Dpmashka2\zadacha10\obj\Debug\net6.0\zadacha10.csproj.CoreCompileInputs.cache
+C:\Users\Intel\OneDrive\Рабочий стол\Domashka2\Dpmashka2\zadacha10\obj\Debug\net6.0\zadacha10.dll
+C:\Users\Intel\OneDrive\Рабочий стол\Domashka2\Dpmashka2\zadacha10\obj\Debug\net6.0\refint\zadacha10.dll
+C:\Users\Intel\OneDrive\Рабочий стол\Domashka2\Dpmashka2\zadacha10\obj\Debug\net6.0\zadacha10.pdb
+C:\Users\Intel\OneDrive\Рабочий стол\Domashka2\Dpmashka2\zadacha10\obj\Debug\net6.0\zadacha10.genruntimeconfig.cache
+C:\Users\Intel\OneDrive\Рабочий стол\Domashka2\Dpmashka2\zadacha10\obj\Debug\net6.0\ref\zadacha10.dll
